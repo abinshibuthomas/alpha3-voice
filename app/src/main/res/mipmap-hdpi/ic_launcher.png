@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99c751f9-4750-4686-89ba-e39555bf1c41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/alphabets2screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/alphabets2screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/birds2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/birds2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/body2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/body2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/colour2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/colour2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/domestic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/domestic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/eachAlphabet3.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/spellingbook/eachAlphabet3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/backk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_alphabets2screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_alphabets2screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_body2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_body2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_colour2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_colour2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_each_alphabet3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_each_alphabet3.xml" afterDir="false" />
+   
